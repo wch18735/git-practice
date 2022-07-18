@@ -1,3 +1,3 @@
 checkout.txt
 email
-cherry-pick
+cherry-pick-example
