@@ -54,6 +54,8 @@ Use git diff, with name-only to show only the names, and diff-filter=U to only i
 구현 모자랑 리팩토링 모자가 있는데 모자는 무조건 하나만 쓴다.
 구현 모드일 때에는 To Do 에만 집중하고, 리팩토링 모드일 때에는 문제해결에 집중한다.
 
+마틴 파울러는 컴파일이 실패하지 않는 선에서 테스트를 작성한다는 점에서 켄트 백과 약간의 차이가 있다.
+
 ### Why TDD
 
 - 모듈화가 잘 된다.
