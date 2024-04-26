@@ -33,3 +33,9 @@ ADD + COMMIT 명령어로 익숙해지면 편하다.
 `git diff --name-only --diff-filter=U --relative`
 
 Use git diff, with name-only to show only the names, and diff-filter=U to only include 'Unmerged' files (optionally, relative to show paths relative to current working directory).
+
+
+## TDD
+
+테스트를 먼저하라는 뜻은 요구조건과 스펙을 명확히 산출하고 진행한다는 뜻이다.
+
