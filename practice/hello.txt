@@ -1,6 +1,0 @@
-hello.txt
-<<<<<<< HEAD
-modified in master
-=======
-modified in contact branch
->>>>>>> contact

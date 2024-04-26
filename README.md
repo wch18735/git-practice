@@ -1,5 +1,9 @@
-# Git Practice
+# Git
 
-1. How to PR(Pull Request)
-2. How to SB(Split Branch)
-3. How to delete branch remotely
+## GitHub
+
+**Code Review Agent 과정 Git 정리**
+
+Git 목적은 버전 관리이고, 이를 사용하는 GitHub 목적은 협업이다. 레포지토리 제공이 아니다. 개발자들이 협업할 때 필요한 모든 도구들이 다 포함되어 있다.
+
+원격 협업에서 사용하는 요청, 질문, 버그리포트, 기능 추가 등을 모두 Issue 라고 한다.

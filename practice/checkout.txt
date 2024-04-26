@@ -1,3 +1,0 @@
-checkout.txt
-email
-cherry-pick-example
