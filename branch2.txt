@@ -1,1 +1,2 @@
 branch2 text
+branch2 text2
