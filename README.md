@@ -1,6 +1,8 @@
-# Git 관련 내용 정리
+# CRA과정
 
-## GitHub
+2024.04.17 ~ 2024.05.10
+
+## Git
 
 CRA 과정 실습
 
@@ -10,7 +12,7 @@ Git 목적은 버전 관리이고, 이를 사용하는 GitHub 목적은 협업�
 
 원격 협업에서 사용하는 요청, 질문, 버그리포트, 기능 추가 등을 모두 Issue 라고 한다.
 
-## 명령어 Tip
+## 명령어 팁
 
 `git rebase -i HEAD~N`
 
@@ -22,7 +24,7 @@ rebase 명령어 치면 보통 History 로그와 순서가 반대로 나타난�
 
 `git commit -am "message"`
 
-ADD + COMMIT 명령어로 손에 익으면 편하다.
+ADD + COMMIT 명령어로 익숙해지면 편하다.
 
 `git diff --name-only`
 
