@@ -1,6 +1,8 @@
-# Git
+# CRA과정
 
-## GitHub
+2024.04.17 ~ 2024.05.10
+
+## Git
 
 **Code Review Agent 과정 Git 정리**
 
