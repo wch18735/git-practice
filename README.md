@@ -1,6 +1,8 @@
-# Git
+# Git 관련 내용 정리
 
 ## GitHub
+
+CRA 과정 실습
 
 **Code Review Agent 과정 Git 정리**
 
